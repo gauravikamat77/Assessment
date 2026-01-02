@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/gauravikamat77/Assessment#readme",
   "dependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
     "react": "^19.2.3",
     "react-dom": "^19.2.3"
   },
